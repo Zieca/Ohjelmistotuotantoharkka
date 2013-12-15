@@ -1,4 +1,9 @@
-Elikäs jotta voidaan testata GitHubin branchii ja muutakin tauhkaa tein tämmösen.
-Lisättävä kama vapaata runoista loremipsumiin.
+Elikäs jotta voidaan testata GitHubin branchii ja muutakin tauhkaa
+tein tämmösen.  Lisättävä kama vapaata runoista loremipsumiin.
 
-Toteenpahan tässä vain, että tän värkin käytön opettelu ilman minkäänlaista apua on ihan tuhottoman tuskaisaa. Varsinkin kun harjoituksessa annettiin ymmärtää, että tehdään nyt ihan vähän vain tälleen pikkuisen. Harjiotuksessa ois ihan suoraan voinut todeta, että hubisen käytön opettelu vie ihan turkasesti aikaa, jos sen haluaa tehdä edes jotenkuten kunnolla. 
+Toteenpahan tässä vain, että tän värkin käytön opettelu ilman
+minkäänlaista apua on ihan tuhottoman tuskaisaa. Varsinkin kun
+harjoituksessa annettiin ymmärtää, että tehdään nyt ihan vähän vain
+tälleen pikkuisen. Harjoituksessa ois ihan suoraan voinut todeta, että
+hubisen käytön opettelu vie ihan turkasesti aikaa, jos sen haluaa
+tehdä edes jotenkuten kunnolla.
