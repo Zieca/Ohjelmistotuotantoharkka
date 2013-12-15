@@ -3,6 +3,8 @@ Ohjelmistotuotantoharkka
 
 Hubin testaamista harkka varten
 
+"Analyysiosio" josta puhuttiin luennoijankin kanssa tulee essee-tiedostoon.
+
 ------------------------------------
 
 Elikäs jos nyt haluaa kokeilla tämän värkin toimivuutta.
