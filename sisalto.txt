@@ -11,6 +11,6 @@ tehdä edes jotenkuten kunnolla.
 ---------------------------
 
 Tämä olkoon haiku hyvästä harkasta
-Niin virheellisesti kuin se meneekin, parempi meille
+Niin virheellisesti kuin se meneekin, parempi niin
 jos jotain esittää bittiavaruudessa on.
 
