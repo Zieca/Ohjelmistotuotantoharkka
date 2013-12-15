@@ -7,3 +7,5 @@ harjoituksessa annettiin ymmärtää, että tehdään nyt ihan vähän vain
 tälleen pikkuisen. Harjoituksessa ois ihan suoraan voinut todeta, että
 hubisen käytön opettelu vie ihan turkasesti aikaa, jos sen haluaa
 tehdä edes jotenkuten kunnolla.
+
+Tein testin vuoksi myös yhden haarautumisen, runous on kaunis asia...
