@@ -12,3 +12,6 @@ Toinen simppelimpi vaihtoehto on, että kun ootte forkanneet projektin omaan hub
 
 Voidaan tää sit panna opettajalle jos halutaan...
 Ajattelin et yheksi tiedostoksi vois vaan panna ton meän "esseen".
+
+
+Älkääkä välittäkö tosta oudosta hyypiöstä joka on tehny kommin. Mie sain apua opettelussa.
