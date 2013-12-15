@@ -5,7 +5,7 @@ Hubin testaamista harkka varten
 
 "Analyysiosio" josta puhuttiin luennoijankin kanssa tulee essee-tiedostoon.
 
-Sisalto.txt voi kiinnostaa opettajaa, ainakin itse avauduin siellä vähän tunnoista mitä oli kun hubin kanssa ähistelin.
+Sisalto.txt:ssä avauduin vähän tunnoista mitä oli kun hubin kanssa ähistelin. Puhdasta hermopurkua ja mouhoa. Oikeaakin palautetta sorruin kirjoittamaan erilliseen tiedostoon.
 
 ------------------------------------
 
