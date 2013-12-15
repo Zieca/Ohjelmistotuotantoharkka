@@ -1,0 +1,69 @@
+Mietteitä kurssista ja etenkin harjoitustyöstä.
+
+Kurssi kokonaisuuten oli mielestäni varsin mielekäs. Aiheet olivat hyvin varioivia ja yleensä siten paketoitu, ettei
+yksi kokonaisuus paisunut liian suureksi vieden merkityksellisyyttä muilta aihealueilta. "Tenttiminen" hoidettiin mielestäni
+äärimmäisen opiskelijaystävällisesti. Toisaalta taas uskallan väittää, että pienten kokonaisuuksien tenttaaminen
+ainakin omalla kohdallani sai aikaan sen, että kaikista aiheista muistaa jotain ainakin vähän paremmin kuin tilanteessa
+jossa kaikki olisi vain kasattu pänttäämällä kurssin lopuksi (uskallan myös väittää että opiskelijoiden tenttaamiseen
+käytettiin myös enemmän aikaa kuin normaalissa tenttikäytännössä, perusteellisempi tenttaus siis? profit...).
+
+Harjoitustyö toisaalta herättää hyvinkin jakautuneita fiiliksiä.
+Harjoituksen tarkoituksena on siis tutustua työmenetelmiin, -tapoihin ja -välineisiin. Ideana hyvin sopiva kurssin
+hengen ja sisällön kanssa. Tapa jolla se haluttiin toteutettavan ei mielestäni ollut välttämättä niin sovelias,
+ainakaan jos työn tekemistä peilaa sen mukaan mitä arvosteluperusteita harjotuksesta oli annettu.
+Harjoitusmuoto/toteutus on varmasti ollut niiden mieleen, joilla on yhtäaikasesti ollut meneillään, jokin kurssi, jonka
+työtä on voinut käyttää harjoituksen yhteydessä sen sisältönä. Tämä vaihtoehto mielestäni oli mitä mainioin tapa taata,
+että harjoituksesta on todellista hyötyä ja välineitä ja keinoja tulee testattua hyvin.
+
+Toisaalta taas tilanteeseen "mielikuvitusprojekti" tämä harjoitus ei mielestäni soveltunut lainkaan. Syynä tähän oli
+mielestäni se, että mielikuvitusprojektin luonti vaatisi huomattavan paljon aikaa ja työtä, joka ei olisi olennaista
+harjotuksen esitettyjen tavoitteiden puitteissa.
+Ryhmämme saikin luvan suorittaa harjoituksen vanhojen projektien analyysinä, jossa tarkoitus oli reflektoida aiemmin
+käytettyjä menetelmiä siihen mitä, kurssilla on opittu. Mm pystyttiin tunnistamaan projektimallit joiden mukaisesti
+erilaisia harjoituksia ja kouluprojekteja on tehty, vaikka niille ei aikaisemmin ollut nimityksiä tai ohjeita.
+Analyysiin / esseen tuottamiseen, ei kuitenkaan pysty millääntavoin järkevästi soveltamaan ennalta ilmoitettua
+harjoituksen arviointiperusteita. Enneminkin voi sanoa, että reflektioesseen muoto syntyi arviointiperusteiden pohjalta.
+
+Mikäli ryhmän työskentelyä haluaa reflektoida annetuin arvosteluperusten, voisi se olla jotain seuraavan kaltaista:
+
+Määrittely:
+
+Suunnitelltiin millaista sisältöä halutaan kirjoittaa. Rajattiin aiheita niiden laajuuksia ja kuvaustapoja.
+Pohdittiin mitä työhön tulisi sisällyttää, jotta se vastaisi annettuja arvosteluperusteita. Päädyttiin
+siihen, että se ei tule onnistumaan ainakaan suoraan ja päätettiin kirjoittaa ja pohtia estettyjä projektin osa-alueita
+esseessä.
+
+Projektin hallinta:
+
+Työmuodon vuoksi työhön ei suoraan/puhtaasti voi sitoa mentemämuotoa, mutta jos jotain olisi sanottava, voisi suoritus-
+tapaa pitää Scrumin mukaisena, koska kaikkeen laajempaan kirjoitustyöhön sisältyy tietty iteratiivisuus. Aloitetaan 
+raakiileesta ja sitä parannellaan ja kehitettään pikkuhiljaa.
+Työ itsessään jaettiin osiin joita kukin ryhmän jäsen työsti itsenäisesti ja jotka myöhemmin yhdistettiin.
+
+Versionhallinta:
+
+Varsinaista version hallintaa ei tämän laajuisen kirjoitustyön yhteydessä käytetty. Lähinnä sen vuoksi, että muutokset
+joita työhön tehdään on suhteellisen pieniä ja merkityksettömiä.
+Tätä kirjoittaessa essee on siirretty säilöön GitHubiin ja palvelua muutenkin testanneena voin sanoa, että myös erilaisten
+kirjoitustöiden säilöminen palvelussa voisi olla mielenkiintoista, koska silloin olisi mahdollista nähdä kirjotusprosessin
+kehittyminen ja eteneminen. (Tässä vaiheessa ei ole vielä varmuutta siitä, tullaanko harjoitus palauttamaan GitHub linkkinä
+vai vain esseenä, mutta todennäköisesti ainakin itse tulen linkin hubiin lähettämään, koska pelkästään tämä palaute on
+sen arvoinen.)
+
+Teknologiat ja käytännöt:
+
+Tämä alue oli analyysin kannalta toisaalta helppo ja toisaalta hyvin vaikea. Esseessä päädyttiin käsittelemään niitä
+työvälineitä, käytäntöjä, teknologioita ja kieliä, joita erilaisten töiden aikana opiskellessa on vastaan tullu. Ei siis
+varsinaisesti tämän kurssin harjoituksen tekoon käytetty mitään hienoja juttuja, mutta pohdittiin sitä, mikä ennen on 
+tuntunut hyvältä ja mikä huonolta, ja hieman myös sitä, olisiko joku kurssin yhteydessä vastaantullut keino tai väline
+ollut avulias menneissä töissä.
+
+Loppuraportti:
+
+Ei varsinaista raporttia, vain essee. Esseestä ei lopulta tullut ehkä ihan niin monipuolinen kuin alunperin tarkoitus
+oli, mutta antaa varsin hyvän yleiskuvan niihin keinoihin ja välineisiin joiden käyttöä joskus on testattu käytönnössä.
+Oma näkemys projektin arvosanasta kokonaisuudessaan (osa-alueittain lähes mahdoton sanoa) analyysinä käytetyistä kielistä,
+välineistä jne. varsin ok, mutta ohjelmistoprojektin ei voi pitää missään tilanteessa.
+
+Suvi Tähtinen
+
