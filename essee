@@ -1,0 +1,87 @@
+Kurssin harjoitustehtävä päätettiin toteuttaa analyysinä töistä ja projekteista joita koulun yhteydessä on ennestään toteutettu. Tarkoituksena on koota yhteen kaikki käytössä olleet työvälineet ja käytetyt menetelmät tarkastellen näiden moninaisuutta ja toimivuutta toisiinsa nähden. Lisäksi pohditaan jo käytettyjen menetelmien ja välineiden yhteneväisyyttä ohjelmistotoutannon kurssin aikana käytyjen asioiden kanssa, sekä kuinka kurssin aikana opittujen menetelmien ja työvälineiden hyödyntäminen olisi vaikuttanut tehtyjen projektien / töiden toteuttamiseen.
+Analyysiä varten on yhteen koottu kaikkien ryhmän jäsenten kokemukset. 
+
+Projektit luodaan yleensä annettua työtehtävää varten. Näin ollen projektit ovat loppujen lopuksi samantyylisiä. Projekteihin sisältyy aina tavoite, johon asiakas/projektin määrääjä pyrkii lopputuloksessa. Projekteissa on aina alku ja loppu, vaikka aloitus olosuhteet vaihtelevat, niin näitä kahta pääasiaa voidaan pitää kaikissa projekteissa yhtenevänä tekijänä. Kaikki tavat, kuinka projektit saadaan alusta loppuun asti tehtyä vaihtelevat projektien sisällä, oli se sitten pieni ryhmätyöprojekti tai laaja asiakasprojekti.
+
+Projektit sisältävät aina päämäärän, johon projektiin osalliset vaikuttavat parhaansa mukaan.
+Näin ollen lopputulokseksi saadaan yleensä aina edes lähelle haluttua lopputulosta ollut loppu-
+tulos. Tämä edellyttää projektiryhmältä kykyä suunnitella projektin etenemistä ja kommunikoida toistensa kanssa. 
+
+Projekteja on kolmenlaisia: Onnistuneita, epäonnistuneita ja kesken olevia. Näistä kolmesta  
+voidaan erotella erilaisia syitä lopputuloksen eroavaisuuden suhteen. Onnistuneet projektit vaa-
+tivat tekijöiltään omistautumista ja lujaa uskoa projektin lopputuloksen saavuttamiseksi, näitä ovat 
+muun muassa erilaiset palaverit sekä muunlaiset keskustelu hetket siitä, että missä vaiheessa 
+projektin suhteen olemme etenemässä, mitä tulee tehdä / mitä on jäänyt tekemättä ja mitenkä
+aikataulullisesti projektissa tulisi edetä. 
+
+Projektien etenemiseen vaikuttaa myös tietynnäköinen etenemismalli. Tähän liittyen voidaan 
+käyttää projektin kesken erilaisia käyttöliittymiä, jotka mahdollistavat projektin osallisien helpon
+kommunikoinnin keskenään. Oli se sitten GitHub:n tai Google doc:n, mutta pääasia on, että 
+projektin jäsenet voivat osallistua projektin tekemiseen, niin monipuolisesti kuin se vain suinkin
+on mahdollista. Kun projektin osallistujien monipuolisuus, sekä tavoitteet ovat samansuuntaisia
+tulee projektista yleensä onnistunut asiakkaalle sekä projektiryhmälle.
+
+Projektien onnistumista voidaan kuvata myös siltä kannalta, kuinka hyvin projektin “suunnittelu” 
+on onnistunut. Yleensä myös tähän osaan kohdistuu projekteissa eniten parannettavaa. Onnistu-
+neissa projekteissa haluttuun lopputulokseen pääsemiseksi on hyvä olla käytössä suunnitelma, 
+jota noudatetaan koko projektin ajan. Yleensä suunnitelmissa (“aivoriihissä”) osataan ottaa mukaan asioita, joita ei huomaisi ottavan mukaan projektiin muissa tapauksissa. Tämän vuoksi 
+projektin eteneminen myöhemmässä tapauksessa saattaa pysähtyä kriittisellä hetkellä, ja näin
+ollen vaikuttaa myös projekteihin määrättyihin deadlineihin sekä mahdolliseen budjettiin. Yhteen-
+vetona voitaisiinkin sanoa, että mahdollinen suunnittelu projektin osalta on tärkeimpiä osa-alueita 
+ja näin ollen vaikuttaa suoraan projektin onnistumisen määritelmään.
+
+Opintojen puitteissa tehdyt pienet tehtävät ja harjoitukset, etenkin ohjelmontipuolella on yleensä tehty ns. yritys-erehdys menetelmällä (tai kuten yksi kurssin vierailijoista sanoisi, perse eellä puuhun -menetelmällä), koska varsinaista suunnittelua ei ole koettu tarpeelliseksi. Jälkikäteen näitä töitä tarkastelemalla on kuitenkin voinut todeta, että suunnittelu ja työn pienempiin osiin purkaminen olisi voinut olla kannattavaa. Toisaalta ohjelmien jäsentely ja osiin pilkkominen on taito, joka on kehittynyt opintojen edetessä, jolloin on luonnollista, että opintojen alkuvaiheen ohjelmointityöt ovat karkeaa, sekavaa ja äärimmäisen huonolaatuista koodia.
+Tässä samassa yhteydessä on myös käynyt ilmi kuinka tärkeää työn/tehtävän oikeanlainen määrittely ennen suunnittelua ja toteutusta on. Esimerkkinä tästä toimii toisena opintovuonna ohjelmointikurssin yhteydessä tehty harjoitustyö. Harjoituksena ideana oli, että se koostuu useammasta osasta ja osien ohjeita ei saatu kerralla. Tämän vuoksi kokonaisuutta ei ollut mahdollista suunnitella siten, että jatko-ohjeiden vaatimusten täyttäminen olisi ollut vaivatonta tai edes mielekästä. Tästä syystä aikaa ja vaivaa työhön kului paljon enemmän kuin todellisessa työprojektissa olisi ollut suotavaa.
+Oppina siis, speksit kasaan heti alussa. Pienet muutokset ja muokkaukset voivat olla ok, mutta mikäli halutaan rakenteellisia muutoksia tai lisäelementtejä projektiin jotka vaatisivat rakenteellisia muutoksia liikutaan heikoilla jäillä onnistumisen ja tehokkaan työn suhteen.
+
+Teknologioiden osalta tarkastelussa on ne työalustat (ohjelmat) ja ohjelmointikielet, joita opintojen aikana on ollut käytössä. Selvitetään minkä tyyppisissä töissä mitäkin on käytetty ja olisiko joku muu käytäntö tai työväline ollut käytettyä parempi.
+
+Ensimmäisenä tarkastellaan miniprojekteja eli koulun ohjelmointikurssien harjoitustehtäviä opintojen alkuvaiheessa. Ensimmäinen tuttavuus valtaosalle ryhmäläisistä työalustana oli Dev-C++ c-ohjelmoinnin alkeiskurssilla. Kyseessä on kohtuullisen keveähkö windows-käyttöjärjästelmässä käytettävä ohjelmointiympäristö C- ja C++ kielille. Tämän ohjelman heikkoudeksi aloittelevien koodaajien käsissä osoittautui virheiden tunnistus ja jäljityksen vaikeus. Ohjelman varsinainen käyttö oli kuitenkin suhteellisen vaivatonta. Koodielementtien vaiteleva väritys (ominaisuus monissa ohelmointialustoissa) auttaa tunnistamaan koodin osia ja rakennetta. Yhdellä ryhmän jäsenistä käytössä oli Emacs työkaluna, mutta tämä ohjelma ei ole kovinkaan aloittelijaystävällinen, jos käytön joutuu opettelemaan ilman osaavan henkilön apupanosta. Emacsin hyviä puolia kuitenkin käyttäjäystävällisyys (kun perusasiat on vain hallussa käytöstä), koodi väritys (kuten dev-c++:kin), automaattinen sisennys joka poistaa ylimääräiseen tarpeen kiinnittää huomiota ja vaivaa koodin muotoseikkoihin jolloin valtaosan keskittymisestä voi oikeasti kohdentaa koodin tuottamiseen.
+(Koodin väritys ja automaattinen sisennys on kaikissa niissä editoreissa, joita on tarkoitettu käytettävän koodaamiseen.)
+
+Kun ohjelmoinnissa siirryttiin c:stä javaan vaihdettiin myös käytettävä alusta. Uutena työalustana tässä vaiheessa esiteltiin Eclipse. Ryhmässä yleisesti vallitseva mielipide on, ettei Eclipse ole käytössä kovinkaan mielekäs työväline. Vaikka Eclipsellä pienien ohjelmien kirjoittaminen ja niiden toiminnan testaaminen onkin suhteellisen yksinkertaista ohjelman käyttö koettiin raskaaksi ja hankalaksi. Ohjelmointikurssien yhteydessä käytössä oli myös Metropolian verkko-opetusympäristö Viope, jossa myös tehtiin pieniä ohjelmointitehtäviä. Varsinainen ohjelmointi tässä ympäristössä oli hyvin samanlaista kuin ohjelmointi notepad++:lla.
+
+Puhtaiden ohjelmointitöiden lisäksi opintoaikana on tehty erilaisia pieniä projekteja joissa ohjelmia on kirjoitettu erilaisille laitteille. Pienet työt ovat enimmäkseen olleen erilaisia ledin vilkutusohjelmia ja lcd-näytölle tulostuksia. Työalustoina on ollut mm. PSoC Designer, AVR-studio ja Quartus ja c:n lisäksi kielinä mm. assembly ja vhdl.
+
+Suurimpana projektina opiskeluaikana on toteutettu robotin rakentaminen. Ohjelmistoprojektien näkökulmasta kyse ei ollut kovinkaan ideaalisesta tapauksesta, koska tuotettava koodin määrä oli suhteellisen pieni osa projektia. Työalustoina ohjelman tuottamisessa oli sellaiset työvälineet, joiden käyttöön oli tutustuttu opintojen aikaisemmissa vaiheissa.
+
+Käytännön tekeminen on yleensä ollut “kertaistumalta”, jolloin työ tehdään kerralla tyhjästä pisteeseen, jossa sen voi sanoa olevan valmis. Tämä on todennäköistä silloin, kun kyseessä on pienet irralliset tehtävät ja osasuoritukset. Ainoa pitkäjänteisempi suoritus on ollu robotti, jonka tapauksessa tekeminen jakautui neljä kuukautta kestävälle ajanjaksolle. Tämä pakotti pilkkomaan työt mahdollisimman pieniin osiin, jotta toteuttaminen oli mahdollista.
+
+Opintojen suurimmassa ja eniten työelämän projekteja muistuttavassa työssä robotti -projektissa käytetty projektimenetelmä oli pääasiassa vesiputousmalli. Projekti alkoi sillä, että saimme robotin osat ja aloimme suunnitella ja kasaamaan robottia kyseisen projektimenetelmän mukaisesti. Ensin määrittelimme, mitä robotin täytyy pystyä tekemään ja sen jälkeen aloimme suunnitella ja toteuttaa sitä vaihe vaiheelta. Projektin ensimmäiset viikot olivat pääasiassa suunnittelua dokumentointia ennen kuin pääsimme kunnolla tekemään robottia.
+
+Kyseiseen projektiin vesiputousmalli oli toimiva ratkaisu, sillä robotin suunnittelu ja toteuttaminen ei kuitenkaan ollut niin iso projekti etteikö sitä olisi valmiiksi pystynyt suunnittelemaan kokonaan alusta loppuun valmiiksi. Tosin harvoin mikään projekti on aivan täysin yhden projektimenetelmän mukaan tehty ja myös robotti projektissa oli muidenkin menetelmien piirteitä.
+
+Projektin edetessä alkoi kuitenkin tulla joitakin ongelmia vesiputousmallin takia, koska etenkin projektin loppupuolella robottiin piti tehdä paljon muutoksia, mitä ei etukäteen oltu suunniteltu. Tämä tosin johtui siitä, että robotti projekti oli monelle ensimmäinen iso projekti, mitä koulussa tai ylipäätään missään on aiemmin tehty. Tämän vuoksi harvalla oli kokemusta projektin tekemisestä tai ylipäätänsä erilaisista projektimenetelmistä, joten käytännössä robottia ryhdyttiin vain tekemään, jotta se saataisi valmiiksi.
+
+Jälkeenpäin ajateltuna vesiputousmalli ei kuitenkaan ollut välttämättä paras mahdollinen menetelmän robotti projektin kannalta. Kokemuksen puutteen vuoksi ja tietämättömyys erilaisista menetelmistä johti siihen, että robotin suunnitteluun ja määrittelemiseen jouduttiin palaamaan usein. Robottia jouduttiin muuttamaan useaan kertaan, ennekuin päästiin valmiiseen lopputulokseen. Scrum olisi ollut robotti projektin kannalta ehkä parempi vaihtoehto, sillä silloin olisi ollut helpompi palata takaisin projektisuunnitelmaan ja tehdä tarvittavat muutokset ja testata robottia uudelleen.
+Kuten aiemmin mainittu, ei robotti projektia tehtäessä projektin jäsenillä ollut paljon aiempaa kokemusta isommista projekteista. Ennen sitä olimme pääasiassa tehneet vain pieniä projekteja kuten esimerkiksi erilaisia harjoitustehtäviä eri kursseihin liittyen. C:n ja Java:n peruskursseilla teimme kurssin harjoitustehtäviä ja sulautettujen ohjelmien harjoituskurssilla teimme vain pieniä sovellutuksia, joten mahdollista suunnittelua ei tarvittu, vaan aloimme suoraan koodaamaan. Tämä toimi hyvin pienissä harjoitustehtävissä, sillä tehtävät olivat usein niin yksinkertaisia, että erillinen suunnittelu ja määrittely olisi saattanut vain haitata tehtävien tekemistä. Tosin välillä saatettiin jäsennellä tehtäviä ranskalaisilla viivoilla, millä oli hyvä aloittaa, mutta yhtään enempää suunnittelua ei edes kannattanut tehdä.
+
+Ryhmän jäsenillä on erilaisia kokemuksia isomman projektin (robotti) dokumentaation hallinnasta. Osassa tapauksia dokumentaatio oli säilötty samaan paikkaan kuin kaikki muukin projektissa tuotettu tulos (koodi), tässä tapauksessa Tuubiin perustettu työtila. Tässä tapauksessa kaikilla ryhmän jäsenillä oli oikeus tallentaa/korvata/poistaa dokumetntaatiota työtilassa. 
+Toinen ratkaisu jota käytettiin oli palvelimelle perustettu tila, johon dokumentaatio talletettiin luettavaksi ja ladattavaksi. Dokumentaation päivitys palvelimella ei ollut auki kaikille projektiryhmän jäsenille vaan arkiston hallinta ja organisointi oli yhden henkilön vastuulla jolle päivitetyt dokumentaatiot ohjattiin arkistoitaviksi.
+Molempien käytettyjen tapojen heikkoutena oli dokumenttien eri versioiden määrän suuruus, kun kyseessä oli usein päivitetty/muokattu dokumentaatio.
+
+Robottiprojektissa perustettiin repository Bitbuckettiin tai vaihtoehtoisesti tehtiin uusi työtila 
+Tuubiin. Jolloin pystyttiin päivittämään aina uusi versio muiden ryhmäläisten näkyville. 
+Projektissa suurin osa päivitti alussa aina kaikki muutokset koodissa ja dokumentoinnissa 
+repositoryyn, mutta ajan myötä päivitykset vähentyivät ja uusin versio jäi koodia korjanneelle 
+henkilölle. Tämän takia olisi voinut tulla ongelmia, jos kyseinen ryhmäläinen menettäisi tiedostot 
+jostakin syystä tai jos hän ei pääsisi paikalle yhdessä työskennellessä. Lopulta kuitenkin 
+tiedostot jaettiin sähköpostitse tai muilla tavoin.
+
+Projektin alussa tehtävät ja kirjoitettavat koodit jaettiin eri ihmisille, joten periaatteessa 
+branchaus toimi. Projektissa mukana olleet yhdistelivät koodia tarpeen tullen, mutta projektin 
+edetessä huomattiin, olevan kätevämpää jos kaksi ihmistä kirjoittaa koodia yhdessä. Tällöin 
+koodia ei tehty turhaan päällekkäin ja yritetty väkisin yhdistää toimivaksi kokonaisuudeksi. 
+Koodiin ei tehty missään vaiheessa testikoodia, mutta koska kyseessä oli robotti, pystyttiin sen 
+toimivuus testaamaan fyysisesti. Tosin se oli hieman aikaa vievää. Koodi oli myös selkeästi 
+kommentoitua ja parametrit olivat järkeviä. 
+
+Ohjelmistotuotannon oppimisprojektin ideana oli tehdä parempaa projektinhallintaa kuin 
+aikaisemmissa projekteissa. Meidän projektiryhmällä ei ollut meneillään yhtäkään kurssia, jossa 
+voisi hallintaa harjoitella, joten kurssin harjoitustehtävä päätettiin toteuttaa analyysinä töistä ja 
+projekteista joita koulun yhteydessä on ennestään toteutettu.
+
+Jaoimme projektiohjeessa olevat viisi osiota ryhmämme neljän jäsenen kesken ja kirjoitimme 
+osioita joko itseksemme omaan Word tiedostoon tai Google Driveen, jossa kaikki pääsivät 
+tekstiin käsiksi.
+
