@@ -19,3 +19,9 @@ Automaattista mergeä ei voinut tehdä...
 Testataan vielä nyt luomalla testi3 ja masteria ei muutetan.
 Onko automaattinen merte testi3sta masteriin mahdollinen?
 
+----------------------------------
+
+Kohta nähdään toimiiko merge...
+Automaattisesti siis.
+
+
