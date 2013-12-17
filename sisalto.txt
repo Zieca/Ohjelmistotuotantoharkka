@@ -9,3 +9,11 @@ hubisen käytön opettelu vie ihan turkasesti aikaa, jos sen haluaa
 tehdä edes jotenkuten kunnolla.
 
 Tein testin vuoksi myös yhden haarautumisen, runous on kaunis asia...
+
+-----------------------------------------
+
+Tällä testataan uuden haaran luomista ja sen sulauttamista master-haaraan.
+Testi1 -haarassa testattu vain uuden haaran tekoa ja jätettu sulauttamtta,
+jotta selkeästi voidaan nähdä erot haarojen välillä, myös testi1 teon ja 
+muuttamisen jälkeen.
+
