@@ -9,3 +9,8 @@ hubisen käytön opettelu vie ihan turkasesti aikaa, jos sen haluaa
 tehdä edes jotenkuten kunnolla.
 
 Tein testin vuoksi myös yhden haarautumisen, runous on kaunis asia...
+
+
+Muutoksia master-haaraan, ennen testi2-haaran sulauttamista, koska
+voidaan olettaa, että sulautus vain lisäsis masteriin tavaraa. Onko tulos
+eri, jos masteria muutettaan ennen mergeä...
