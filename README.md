@@ -26,3 +26,6 @@ Ajattelin et yheksi tiedostoksi vois vaan panna ton meän "esseen".
 En ole ihan varma miten tätä käytetää, mutta toivottavasti tämä mun nimen ja opiskelijanumeron lisääminen nyt
 onnistui niin että muutkin sen näkee :p Eli mun opiskelijanumero on: 1103011
 T: Ville Suomi
+
+En tajua en... Herjaa kaikenlaista...
+T: Kiia Tammi 1103037
