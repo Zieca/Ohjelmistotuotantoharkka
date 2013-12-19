@@ -21,3 +21,8 @@ Ajattelin et yheksi tiedostoksi vois vaan panna ton meän "esseen".
 
 
 Älkääkä välittäkö tosta oudosta hyypiöstä joka on tehny kommin. Mie sain apua opettelussa.
+
+
+En ole ihan varma miten tätä käytetää, mutta toivottavasti tämä mun nimen ja opiskelijanumeron lisääminen nyt
+onnistui niin että muutkin sen näkee :p Eli mun opiskelijanumero on: 1103011
+T: Ville Suomi
